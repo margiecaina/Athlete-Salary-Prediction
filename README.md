@@ -1,7 +1,5 @@
 # NHL-Player-Salary-Prediction
 
-# Athlete Salary Prediction
-
 ## 📋 Project Overview
 This project predicts the salaries of athletes based on various features, such as performance metrics, demographics, and team statistics. The goal is to leverage machine learning techniques to identify key factors influencing athlete salaries and provide accurate predictions.
 
